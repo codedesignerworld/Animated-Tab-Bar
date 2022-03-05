@@ -1,6 +1,3 @@
-// Designed by: Hoang Nguyen
-// Original image: https://dribbble.com/shots/5919154-Tab-Bar-Label-Micro-Interaction
-
 const buttons = document.querySelectorAll(".menu__item");
 let activeButton = document.querySelector(".menu__item.active");
 
