@@ -13,7 +13,6 @@ html {
     --gradient3: linear-gradient(#444444,#556789);
 
     --tabBarColor: linear-gradient(#5333C5,#5676C0);
-    --circleColor: rgba(255,255,255,1);
 }
 
 html *,
